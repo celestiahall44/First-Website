@@ -161,3 +161,8 @@ footer {
 .footer__links{
     padding: 0 16px;
 }
+
+/* small phones, tablets, large smartphones */
+@media(max-width: 728px){
+
+}
